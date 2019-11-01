@@ -17,8 +17,7 @@ main = do
   
   putStrLn "end"
 
-mainLoop public private= 
-  while True = do
+mainLoop public private = 
     Print.whatDoYouWannaDo
     option <- getChar
     case option of 

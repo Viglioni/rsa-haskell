@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: af419701367b453451e65c8fe73477accdaee361be6c3ffb7dc2672c45c86ed3
+-- hash: 48401ea0c49f50cc5037ac7c13d64b10eec78cf31f356b24aec7cb6881c43432
 
 name:           rsa-haskell
 version:        0.1.0.0
@@ -33,6 +33,7 @@ library
       MillerRabinTest
       ModularExp
       PrimeGenerator
+      Print
       RSAkeys
   other-modules:
       Paths_rsa_haskell
