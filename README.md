@@ -1,2 +1,13 @@
-# rsa-haskell
-# rsa-haskell
+# install
+
+```shell
+brew install haskell-stack
+```
+
+# usage
+
+```shell
+stack install
+stack run
+```
+
